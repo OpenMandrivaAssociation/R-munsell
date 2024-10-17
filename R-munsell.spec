@@ -7,7 +7,7 @@ Release:          1
 Summary:          Munsell color system
 Group:            Sciences/Mathematics
 License:          MIT
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.4.2.tar.gz
 BuildArch:        noarch
 Requires:         R-colorspace
